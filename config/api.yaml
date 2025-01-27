@@ -1,0 +1,17 @@
+openai:
+    api_key: "sk-EEp4FeGpN8gyZOZplXuXsf7xIPzxGxvtoVDAcB5CHUu5UaZD"
+    base_url: "https://boyuerichdata.chatgptten.com/v1"
+
+    # base_url: "https://xiaoai.plus/v1"
+    # api_key: "sk-z8eQ7JH3TYzUfK4cdzqIzOFLLqltAEgNhlIWNBUhyfC3qdwm"
+qwen:
+    base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    api_key: "sk-c0ff51c45de947eaaa0e1387c4b457d8"
+deepseek:
+    api_key: "sk-2ded84ccdfc342e68158539be2af8ad3"  
+    base_url: "https://api.deepseek.com"
+
+general:
+    api_key: "sk-EEp4FeGpN8gyZOZplXuXsf7xIPzxGxvtoVDAcB5CHUu5UaZD"
+    base_url: "https://boyuerichdata.chatgptten.com/v1"
+
