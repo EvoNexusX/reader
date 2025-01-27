@@ -36,7 +36,6 @@ TEXTIN_API_ID="xxx"
 TEXTIN_API_SECRET="xxx"
 ```
 
-
 ###### **启动项目**
 ```sh
 python main.py
